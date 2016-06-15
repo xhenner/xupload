@@ -1,0 +1,4 @@
+# xupload base configuration
+
+ENABLED=1
+# CONFIGURATION="/etc/xupload/xupload.conf"
