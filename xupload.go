@@ -25,7 +25,7 @@ import (
 )
 
 const progname = "xupload"
-const version = "3.0.1"
+const version = "3.0.2"
 
 var (
 	showHelp                                     = flag.Bool("help", false, "Display help and exit")
